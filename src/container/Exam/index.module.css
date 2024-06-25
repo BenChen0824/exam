@@ -1,0 +1,83 @@
+.btnShow {
+  z-index: 999;
+  padding: 3px 5px;
+  background-color: #e1e1e1;
+  border-radius: 10px;
+}
+
+.width60vw {
+  width: 60vw;
+}
+
+.dot {
+  height: 10px;
+  width: 30px;
+  background-color: #bbb;
+  display: inline-block;
+}
+
+.pageChosen {
+  background-color: #717171;
+
+}
+
+
+.listType {
+  list-style: none;
+}
+
+.wrap {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+}
+
+.downloadBtn {
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: 1px solid #b4b4b4;
+  margin: 10px;
+}
+
+
+
+.downloadBtn:hover {
+  background-color: #a3a3a3;
+  color: #fff;
+}
+
+.loadingBtn {
+  cursor: not-allowed;
+  background-color: #a3a3a3;
+}
+
+.hyperNoDecorate a {
+  text-decoration: none;
+  color: #000;
+}
+
+.topicSelectBlock {
+  width: 100%;
+  border: 2px solid #ccc;
+  border-radius: 30px;
+  min-height: 100px;
+  padding: 0 20px;
+  max-height: 175px;
+}
+
+.block {
+  min-height: 50px;
+}
+
+.handleBtn {
+  padding: 5px 10px;
+  border: 2px solid #e0e0e0;
+  border-radius: 15px;
+}
+
+.handleBtn:hover {
+  background-color: #e0e0e0;
+}

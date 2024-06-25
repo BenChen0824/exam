@@ -1,0 +1,26 @@
+.btnShow {
+  z-index: 999;
+  padding: 3px 5px;
+  background-color: #e1e1e1;
+  border-radius: 10px;
+}
+
+.width60vw {
+  width: 60vw;
+}
+
+.nextPageBlock {
+  width: 5%;
+  cursor: pointer;
+
+}
+
+.nextPageBlock:hover {
+  background-color: #e1e1e16e;
+}
+
+.cantClick {
+  pointer-events: none;
+  cursor: not-allowed;
+  opacity: 0;
+}

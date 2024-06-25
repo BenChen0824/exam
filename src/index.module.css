@@ -1,0 +1,6 @@
+.btnShow {
+  z-index: 999;
+  padding: 3px 5px;
+  background-color: #e1e1e1;
+  border-radius: 10px;
+}
